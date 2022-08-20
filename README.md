@@ -1,1 +1,1 @@
-# xssh pass-majalaya
+# xssh pass-moxer
